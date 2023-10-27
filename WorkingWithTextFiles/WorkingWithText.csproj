@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1EC6AD23-9AC3-4FF5-9896-C09824828E45}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WorkingWithTextFiles</RootNamespace>
-    <AssemblyName>WorkingWithTextFiles</AssemblyName>
+    <RootNamespace>WorkingWithText</RootNamespace>
+    <AssemblyName>WorkingWithText</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
