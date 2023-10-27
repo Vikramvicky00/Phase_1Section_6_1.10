@@ -7,11 +7,11 @@ namespace WorkingWithText
     {
         static void Main(string[] args)
         {
-            FilesMethod();
+            TextMethod();
             Console.ReadLine();
         }
 
-        public static void FilesMethod()
+        public static void TextMethod()
         {
             string mary = "Mary had a little lamb.";
             Console.WriteLine("Original string=" + mary);
